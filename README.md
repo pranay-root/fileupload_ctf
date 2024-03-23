@@ -6,7 +6,7 @@
 </div>
 https://mega.nz/file/9r9zAQTb#O6kCBfLylzSwmLoep_P0avt7_hYKSII_yfMjqeU1TLk 
 
-## Machine Solution:(telugu Language)  
+## Machine Solution:(Telugu Language)  
 <div>
   <button onclick="copyToClipboard('code-block-1')"></button>
 </div>
